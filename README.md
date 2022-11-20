@@ -1,7 +1,6 @@
 ### Hi there, I'm Eduardo Ribeiro 👋
 
-💻 MSc Student in Informatics and Computing Engineering (year 5/5) @ [FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial)  
-🎓 Currently working on my MSc Thesis: "Micro-containerization in Microcontrollers for the IoT"
+💻 Software Development Engineer @ Amazon Web Services Berlin
 
 <img style="padding-top: 1em;" height="180em" src="https://github-readme-stats.vercel.app/api?username=EduRibeiro00&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark" />
 
