@@ -1,6 +1,6 @@
 ### Hi there, I'm Eduardo Ribeiro 👋
 
-💻 Software Development Engineer @ Amazon Web Services Berlin
+💻 Software Development Engineer @ Amazon
 
 <img style="padding-top: 1em;" height="180em" src="https://github-readme-stats.vercel.app/api?username=EduRibeiro00&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark" />
 
