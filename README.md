@@ -1,12 +1,18 @@
-### Hi there, I'm Eduardo Ribeiro 👋
+### Eduardo Ribeiro
 
 💻 Software Development Engineer @ Amazon
 
-<img style="padding-top: 1em;" height="180em" src="https://github-readme-stats.vercel.app/api?username=EduRibeiro00&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark" />
+#### What I'm currently doing
 
-<a target="_blank" href="https://eduardocribeiro.com/"><img src="https://img.shields.io/badge/-Website-2563eb?style=for-the-badge&logo=About.me&logoColor=white"></img></a> 
-<a target="_blank" href="https://www.linkedin.com/in/eduardocribeiro/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="mailto:eribeiro306@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-<a target="_blank" href="https://dev.to/eduardocribeiro"><img src="https://img.shields.io/badge/-dev.to-12100E?style=for-the-badge&logo=devdotto&logoColor=white"></img></a>
-<a target="_blank" href="https://eduardocribeiro.medium.com/"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>
-<br>
+- 🖥️ Working on the **backend infrastructure that supports the creation and management of customer reviews** for Amazon Marketplace, Kindle, Alexa, FireTV, and more
+- 📝 Writing some posts on my [personal blog](https://eduardocribeiro.vercel.app/blog)
+- 🔎 Learning about Typst, AI/ML, among other things
+
+
+#### Links
+- [Personal website](https://eduardocribeiro.vercel.app/)
+- [LinkedIn](https://www.linkedin.com/in/eduardocribeiro/)
+- [Mail](mailto:eribeiro306@gmail.com)
+- [dev.to](https://dev.to/eduardocribeiro)
+- [Medium](https://eduardocribeiro.medium.com/)
+- [CV PDF](https://drive.google.com/file/d/1rB_650EuTGV4cZG_4msYQEc19y80JgRd/view?usp=drive_link)
