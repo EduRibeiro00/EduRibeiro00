@@ -1,10 +1,10 @@
 ### Eduardo Ribeiro
 
-💻 Software Development Engineer @ Amazon
+💻 Member of Technical Staff @ Titannis
 
 #### What I'm currently doing
 
-- 🖥️ Working on the **backend infrastructure that supports the creation and management of customer reviews** for Amazon Marketplace, Kindle, Alexa, FireTV, and more
+- 🖥️ Building an AI agent platform that automates GUI-based business workflows for enterprises with legacy, fragmented, or locked-down IT systems. Mainly working on AI Engineering and Infra.
 - 📝 Writing some posts on my [personal blog](https://eduardocribeiro.vercel.app/blog)
 - 🔎 Learning about Typst, AI/ML, among other things
 
