@@ -1,6 +1,6 @@
 ### Eduardo Ribeiro
 
-💻 Member of Technical Staff @ Titannis
+💻 Member of Technical Staff @ Titannis | Ex-Amazon
 
 #### What I'm currently doing
 
