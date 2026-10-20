@@ -4,7 +4,7 @@
 
 #### What I'm currently doing
 
-- 🖥️ Building an AI agent platform that automates GUI-based business workflows for enterprises with legacy, fragmented, or locked-down IT systems. Mainly working on AI Engineering and Infra.
+- 🖥️
 - 📝 Writing some posts on my [personal blog](https://eduardocribeiro.vercel.app/blog)
 - 🔎 Learning about Typst, AI/ML, among other things
 
